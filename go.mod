@@ -8,18 +8,17 @@ require (
 	github.com/aws/aws-sdk-go v1.43.2
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.4.1
 	github.com/onsi/gomega v1.18.1
-	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
+	golang.org/x/net v0.7.0
 )
 
 require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/miekg/dns v1.1.35 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 // indirect
-	golang.org/x/mod v0.3.0 // indirect
-	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e // indirect
-	golang.org/x/text v0.3.6 // indirect
-	golang.org/x/tools v0.1.0 // indirect
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/tools v0.1.12 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
